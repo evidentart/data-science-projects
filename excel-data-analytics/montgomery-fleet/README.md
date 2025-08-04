@@ -25,8 +25,8 @@ The dataset is a modified subset of the publicly available [Fleet Equipment Inve
 
 ## Files
 
-- `Montgomery_Fleet_Equipment_Inventory_Cleaned.xlsx` – Cleaned version of the source data
-- `Montgomery_Fleet_Equipment_Inventory_PivotAnalysis.xlsx` – Contains all pivot tables and summary views
-- `Cleaning_Documentation.txt` – Full breakdown of data preparation steps
-- `Pivot_Analysis_Documentation.txt` – Detailed description of pivot table logic and configuration
-
+- `rawdata_montgomery_fleet_equipment_inventory.csv` – Original raw dataset  
+- `part1_montgomery_fleet_equipment_inventory.xlsx` – Initial data cleaning and preparation  
+- `cleaned_montgomery_fleet_equipment_inventory.xlsx` – Final cleaned dataset after processing  
+- `part2_montgomery_fleet_equipment_inventory.xlsx` – Pivot tables and data analysis results  
+- `project_documentation.txt` – Detailed documentation of cleaning and analysis steps  
