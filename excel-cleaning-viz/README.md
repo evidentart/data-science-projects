@@ -1,13 +1,34 @@
 # Excel Data Cleaning – Customer Demographics & Sales
 
-This project showcases data cleaning and preprocessing using Microsoft Excel. The dataset, `Customer_demographics_and_sales_Lab5.xlsx`, includes customer and sales data requiring standardization and correction before analysis.
+This project demonstrates data cleaning techniques applied to a customer demographics and sales dataset using Excel. The dataset is a modified version of publicly available sample data published by IBM.
 
-## Key Tasks
-- Removed duplicates, empty rows, and irrelevant entries  
-- Corrected misspellings and inconsistent text casing  
-- Standardized date formats and trimmed extra whitespace  
-- Parsed and restructured names using Excel functions
+## Key Techniques Applied
+
+- **Data Quality Checks**  
+  - Identified and corrected misspellings  
+  - Standardized values using Find & Replace  
+
+- **Data Cleanup**  
+  - Removed empty rows and duplicate entries  
+  - Cleared irrelevant or inconsistent entries  
+  - Trimmed excess whitespace from text fields
+
+- **Text Standardization**  
+  - Converted text to proper case, upper case, and lower case using Excel formulas  
+  - Parsed full names into first and last names using string functions
+
+- **Date Formatting**  
+  - Standardized date formats using region-specific settings
+
+- **Data Restructuring**  
+  - Applied Flash Fill and formula-based parsing to split or reformat data fields
 
 ## Files
-- `Customer_demographics_and_sales_dataset.xlsx` – Raw dataset  
-- `Cleaned_Customer_Data.xlsx` – Cleaned dataset 
+
+- `customer_demographics_and_sales_data.xlsx` – Raw dataset  
+- `cleaned_customer_data.xlsx` – Final cleaned version  
+- `cleaning_steps_documented.xlsx` – Reference log of all cleaning steps
+
+## Tools
+
+- Microsoft Excel
