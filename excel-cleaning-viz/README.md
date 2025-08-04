@@ -25,9 +25,9 @@ This project demonstrates data cleaning techniques applied to a customer demogra
 
 ## Files
 
-- `customer_demographics_and_sales_data.xlsx` – Raw dataset  
-- `cleaned_customer_data.xlsx` – Final cleaned version  
-- `cleaning_steps_documented.xlsx` – Reference log of all cleaning steps
+- `customer_demographics_and_sales_data.csv` – Raw dataset  
+- `cleaned_customer_data.csv` – Final cleaned version  
+- `cleaning_steps_documented.txt` – Reference log of all cleaning steps
 
 ## Tools
 
