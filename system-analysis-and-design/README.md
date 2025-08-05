@@ -29,8 +29,6 @@ Our mission is to **empower patients and medical professionals** through technol
 - **Insert Appointment Summary** – Document visit outcomes for future reference.  
 - **Appointment Prioritization** – Automated urgency assessment for critical cases.
 
-![Provider Functions](images/providers.png)
-
 ### For Patients
 - **Create Patient Profile** – Register with personal, contact, and medical history details.  
 - **Schedule Appointments** – Book with specialists, filterable by department or specialization.  
@@ -38,8 +36,6 @@ Our mission is to **empower patients and medical professionals** through technol
 - **Appointment Reminders** – 48‑hour notifications with time, date, and provider info.  
 - **Access Medical History** – View summaries and past appointments.  
 - **Virtual Waiting System** – Remote check-in, queue status, and health tips while waiting.
-
-![Patient Functions](images/patients.png)
 
 ---
 
@@ -56,13 +52,14 @@ We adopted a **Hybrid Acquisition Model**:
 - Adaptability to evolving requirements  
 - Security & compliance with healthcare regulations
 
-![Acquisition Strategy](images/acquisition_strategy.png)
-
 ---
 
 ## System Design
 
-### Entity Relationship Diagram (ERD)  
+### Key System Diagrams  
+To provide a quick visual overview of the core system architecture, here are two essential diagrams:
+
+#### Entity Relationship Diagram (ERD)  
 The ERD outlines the **database structure** for the EMR scheduling system, showing relationships between:  
 - **Patients** (personal info, history)  
 - **Providers** (specialization, availability)  
@@ -71,45 +68,37 @@ The ERD outlines the **database structure** for the EMR scheduling system, showi
 
 ![Entity Relationship Diagram](images/erd.png)
 
----
-
-### Data Flow Diagram – Level 0  
+#### Data Flow Diagram – Level 0  
 This diagram provides a **high-level view** of how data moves between external entities and the EMR system:  
 - Patients request appointments, cancel, or access history  
 - Providers manage slots, summaries, and prioritization  
 - System sends reminders and manages queues in real-time  
 
-![Data Flow Diagram – Level 0](images/dfd_level0.png)
+![Data Flow Diagram – Level 0](images/level_zero_diagram.png)
+
+*For detailed interface prototypes, acquisition strategy visuals, and additional diagrams, please refer to the respective folders.*
 
 ---
 
 ## Interface Prototypes
 
 ### Patient Portal Prototype  
-- **Appointment booking screen** with filters by department/specialization  
-- **Upcoming appointments** with status and cancellation/rescheduling buttons  
-- **Queue status** with estimated wait times
-
-![Patient Portal Prototype](images/patient_portal.png)
-
----
+- Appointment booking screen with filters by department/specialization  
+- Upcoming appointments with status and cancellation/rescheduling buttons  
+- Queue status with estimated wait times
 
 ### Provider Portal Prototype  
-- **Slot management** (insert, modify, delete appointments)  
-- **Prioritization dashboard** to identify urgent cases  
-- **Summary entry interface** for post-appointment notes
-
-![Provider Portal Prototype](images/provider_portal.png)
+- Slot management (insert, modify, delete appointments)  
+- Prioritization dashboard to identify urgent cases  
+- Summary entry interface for post-appointment notes
 
 ---
 
 ## Interface Structure Design  
 Focuses on **usability and clarity**:  
-- **Dashboard View** for quick access to schedules, priorities, and reminders  
-- **Patient Portal** for booking and history  
-- **Provider Portal** for managing appointments and summaries  
-
-![Interface Design](images/interface.png)
+- Dashboard View for quick access to schedules, priorities, and reminders  
+- Patient Portal for booking and history  
+- Provider Portal for managing appointments and summaries  
 
 ---
 
@@ -124,8 +113,6 @@ Focuses on **usability and clarity**:
 - Real-world healthcare system complexities  
 - Importance of SDLC planning and iterative feedback  
 
-![Project Reflection](images/reflection.png)
-
 ---
 
 ## How to Use  
@@ -136,4 +123,4 @@ Focuses on **usability and clarity**:
 
 ---
 
-- Ali Akcin  
+- Ali Akcin
