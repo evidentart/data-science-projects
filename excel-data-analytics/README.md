@@ -4,10 +4,6 @@
 - [excel-visualization/](excel-visualization) – Interactive dashboards built in Excel and IBM Cognos analyzing car sales and profits by model and dealer, including sales trends and customer insights.  
 - [montgomery-fleet/](montgomery-fleet) – Data cleaning and analysis for a fleet management dataset in Excel.  
  
-
-
-# Excel Data Projects
-
 This repository contains a collection of Excel-based data projects that focus on data cleaning, analysis, and visualization. All work was completed using **Microsoft Excel for the Web**, ensuring accessibility and compatibility across devices and operating systems.
 
 The projects included demonstrate practical spreadsheet techniques commonly used in data-driven roles, including tasks in business analysis, operations, and reporting.
