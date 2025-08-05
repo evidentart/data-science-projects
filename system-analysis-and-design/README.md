@@ -100,6 +100,8 @@ Focuses on **usability and clarity**:
 - Patient Portal for booking and history  
 - Provider Portal for managing appointments and summaries  
 
+![Interface Design](images/interface_structure_design.png)
+
 ---
 
 ## Project Reflection  
@@ -124,3 +126,4 @@ Focuses on **usability and clarity**:
 ---
 
 - Ali Akcin
+
