@@ -1,7 +1,5 @@
 ## Excel Data Analytics Projects
 
-## Excel Data Analytics Projects
-
 - [customer-demographics-sales/](customer-demographics-sales) – Data cleaning and preparation in Excel for retail customer demographics and sales dataset.  
 - [excel-visualization/](excel-visualization) – Interactive dashboards built in Excel and IBM Cognos analyzing car sales and profits by model and dealer, including sales trends and customer insights.  
 - [montgomery-fleet/](montgomery-fleet) – Data cleaning and analysis for a fleet management dataset in Excel.  
