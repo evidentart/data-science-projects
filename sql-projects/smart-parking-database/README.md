@@ -1,4 +1,4 @@
-# Parking Management System DB
+# Smart Parking Management System DB
 
 ## Project Overview
 
