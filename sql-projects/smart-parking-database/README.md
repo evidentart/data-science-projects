@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Parking Management System DB is an Oracle SQL project that demonstrates the design and implementation of a relational database for managing parking operations.  
+The Smart Parking Management System DB is an Oracle SQL project that demonstrates the design and implementation of a relational database for managing parking operations.  
 The database models customers, vehicles, parking zones, parking sessions, transactions, and customer feedback messages.
 
 This project was originally created for academic purposes, but it has been enhanced and documented to showcase SQL and PL/SQL skills suitable for professional review.
