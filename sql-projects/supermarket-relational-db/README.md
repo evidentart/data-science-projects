@@ -1,9 +1,10 @@
 # Supermarket Relational DB
 
 ## Project Overview
-Supermarket Relational DB is a SQL project that demonstrates the design and implementation of a relational database for a retail management system. The database models suppliers, departments, products, employees, customers, orders, and sales transactions.
 
-This project was originally created for school, but it has been enhanced and documented to showcase SQL skills suitable for professional review.
+The Supermarket Relational DB is an Oracle SQL project that demonstrates the design and implementation of a relational database for a retail management system. The database models suppliers, departments, products, employees, customers, orders, and sales transactions.
+
+This project was originally created for academic purposes, but it has been enhanced and documented to showcase SQL skills suitable for professional review.
 
 ---
 
@@ -12,7 +13,7 @@ This project was originally created for school, but it has been enhanced and doc
 **Tables Included:**
 
 | Table             | Description                               |
-|------------------|-------------------------------------------|
+|-------------------|-------------------------------------------|
 | Address           | Stores addresses for suppliers, customers, and employees |
 | Supplier          | Supplier details                          |
 | Department        | Retail departments (e.g., Snacks, Produce, Meat) |
