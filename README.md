@@ -7,7 +7,7 @@ This repository contains a collection of projects demonstrating skills in **Pyth
 - **python-projects** – Python-based data analysis, automation, and machine learning projects.  
 - **sql-projects** – Database management, queries, stored procedures, and data analytics using SQL.  
 - **excel-data-analytics** – Excel-based data cleaning, visualizations, and reporting projects.  
-- **system-analysis-and-design** – Documentation and examples related to system analysis and software design.  
+- **system-analysis-and-design** – Complete documentation and examples for the MediSync EMR Scheduling System, including system analysis, software design, ERD, data flow diagrams, interface prototypes, and project reflections..  
 
 Explore each folder for detailed descriptions, code, and demonstrations of the projects.
 
