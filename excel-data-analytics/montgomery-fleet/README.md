@@ -22,7 +22,6 @@ The original data, modeled on public records from Montgomery County, Maryland, w
 - `part1_montgomery_fleet_equipment_inventory.xlsx` – Cleaned and prepped data
 - `cleaned_montgomery_fleet_equipment_inventory.xlsx` – Final cleaned dataset
 - `part2_montgomery_fleet_equipment_inventory.xlsx` – Pivot tables and summary analysis
-- `project_documentation.txt` – Step-by-step documentation of all tasks
 
 ---
 
