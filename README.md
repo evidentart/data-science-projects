@@ -4,7 +4,7 @@ This repository contains a collection of projects demonstrating skills in **Pyth
 
 ## Project Folders
 
-- **python-projects** – Python-based data analysis, automation, and machine learning projects.  
+- **python-projects** – Python projects that may combine SQL, pandas, and other libraries for data analysis, automation, and machine learning.
 - **sql-projects** – Database management, queries, stored procedures, and data analytics using SQL.  
 - **excel-data-analytics** – Excel-based data cleaning, visualizations, and reporting projects.  
 - **system-analysis-and-design** – Complete documentation and examples for the MediSync EMR Scheduling System, including system analysis, software design, ERD, data flow diagrams, interface prototypes, and project reflections. 
