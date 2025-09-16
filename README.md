@@ -12,4 +12,4 @@ This repository contains a collection of projects demonstrating skills in **Pyth
 Explore each folder for detailed descriptions, code, and demonstrations of the projects.
 
 
-© 2025 Ali Akcin. For educational purposes. All rights reserved.
+© 2025 Ali Akcin. For educational purposes only. 
